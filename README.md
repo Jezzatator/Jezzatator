@@ -2,7 +2,7 @@
 - 👀 I’m interested in geopolitics, maps and data
 - 🌱 I’m currently learning persian and gis
 - 💞️ I’m looking to collaborate on make a better world
-- 🏫 Currently student at [Ada Tech School]([Ada Tech School](https://adatechschool.fr/)
+- 🏫 Currently student at [Ada Tech School](https://adatechschool.fr/)
 - 📫 How to reach me please don't 
 
 <!---
