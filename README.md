@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning iOS development, persian and gis
 - 💞️ I’m looking to collaborate on make a better world
 - 🏫 Currently student at [Ada Tech School](https://adatechschool.fr/)
-- 📫 How to reach me ?  please do !
+- 📫 How to reach me ?  Please do !
 
 <!---
 Jezzatator/Jezzatator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
