@@ -1,31 +1,33 @@
-# Bonjour ! Je suis Jérémie Patot 👋
+# Hi, I'm Jérémie 👋
 
-🎓 Étudiant en formation RNCP Concepteur et Développeur d'Applications à [Ada Tech School](https://adatechschool.fr/)
+iOS developer based in Toulouse, France. I build native apps in **Swift / SwiftUI / TCA** used by hundreds of thousands of people.
 
-👨‍💻 Passionné par le développement iOS et le développement web
+📱 Currently at [Pictarine](https://www.pictarine.com/): white-label photo printing apps (PhotoPrint, Picta and more)
+🚲 Previously: apprenticeship at [Fifteen](https://fifteen.eu/), UIKit → SwiftUI migration and CI/CD rebuild
+🎓 Trained at [Ada Tech School](https://adatechschool.fr/) (Application Designer & Developer)
 
-🌱 Actuellement en recherche d'une opportunité d'alternance
+### 🛠 What I do
 
-### Mes compétences
+- **Native iOS**: Swift, SwiftUI, The Composable Architecture, UIKit
+- **Performance**: profiling, rendering, memory management on large image sets
+- **Text & images**: CoreText, TextKit 2, ImageIO
+- **On-device ML**: Vision, CoreML
+- **Geospatial & transit data**: GTFS / GTFS-RT, MapKit
 
-- #### Développement mobile iOS natif avec Swift (SwiftUI et UIKit)
-- Développement web FullStakc avec HTML, CSS, ReactJS, NextJS et Laravel
+### 🚀 Projects
 
-### Mes intérêts
+| Project | Description |
+|---|---|
+| **RailMap** *(in development)* | "Flighty for trains": real-time trip tracking on a map. TCA, SwiftData, MapLibre, self-hosted Vapor backend. Targeting iOS and Android via Skip Fuse. |
+| **Interlinea** *(in development)* | Bilingual reader (French / Persian) that automatically aligns two texts sentence by sentence. Dynamic programming alignment algorithm, TextKit 2 rendering, hexagonal TCA architecture. |
+| [**Locomoswift**](https://github.com/Jezzatator/Locomoswift) | Open-source Swift package for parsing GTFS and GTFS-Realtime transit data. Published on the [Swift Package Index](https://swiftpackageindex.com/). Powers RailMap. |
+| [**Aileron**](https://github.com/Jezzatator/Aileron) | iOS app for tracking rays and sharks, built for the University of Montpellier. |
 
-- Exploration des dernières technologies de développement mobile et web
-- Contribution à des projets open source
-- Participation à des hackathons et événements de programmation
+### 🌱 Currently learning
 
-### Comment me contacter
+Large-scale app architecture, Swift concurrency (Swift 6, strict concurrency) and Instruments performance tooling.
 
-📧 Email : jeremie.patot@protonmail.ch
+---
 
-🌐 LinkedIn : [Jérémie Patot](https://www.linkedin.com/in/jeremie-patot/)
-
-N'hésitez pas à me contacter pour discuter de collaborations, de projets ou simplement pour échanger sur le développement !
-
-<!---
-Jezzatator/Jezzatator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 [jeremie.patot@protonmail.ch](mailto:jeremie.patot@protonmail.ch) · [LinkedIn](https://www.linkedin.com/in/jeremie-patot/)
+🗣 Feel free to reach out in French · English · Spanish · Catalan · Persian
