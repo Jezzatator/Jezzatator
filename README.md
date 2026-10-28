@@ -3,7 +3,9 @@
 iOS developer based in Toulouse, France. I build native apps in **Swift / SwiftUI / TCA** used by hundreds of thousands of people.
 
 📱 Currently at [Pictarine](https://www.pictarine.com/): white-label photo printing apps (PhotoPrint, Picta and more)
+
 🚲 Previously: apprenticeship at [Fifteen](https://fifteen.eu/), UIKit → SwiftUI migration and CI/CD rebuild
+
 🎓 Trained at [Ada Tech School](https://adatechschool.fr/) (Application Designer & Developer)
 
 ### 🛠 What I do
